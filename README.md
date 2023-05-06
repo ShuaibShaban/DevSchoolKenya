@@ -73,15 +73,15 @@
 
 **Note:** The _"Starter Code"_ for a lesson is also the _"Completed Code"_ for the previous lesson unless otherwise noted.
 
-- 🔗 [Chapter 2 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/01_lesson)
-- 🔗 [Chapter 3 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/02_lesson)
-- 🔗 [Chapter 4 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/03_lesson)
-- 🔗 [Chapter 5 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/04_lesson)
-- 🔗 [Chapter 6 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/05_lesson)
-- 🔗 [Chapter 7 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/06_lesson)
-- 🔗 [Chapter 8 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/07_lesson)
-- 🔗 [Chapter 9 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/08_lesson)
-- 🔗 [Chapter 9 Completed Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/09_lesson)
-- 🔗 [Chapter 10 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/10_lesson_starter)
-- 🔗 [Chapter 10 Completed Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/main/10_lesson)
+- 🔗 [Chapter 2 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/01_lesson)
+- 🔗 [Chapter 3 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/02_lesson)
+- 🔗 [Chapter 4 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/03_lesson)
+- 🔗 [Chapter 5 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/04_lesson)
+- 🔗 [Chapter 6 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/05_lesson)
+- 🔗 [Chapter 7 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/06_lesson)
+- 🔗 [Chapter 8 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/07_lesson)
+- 🔗 [Chapter 9 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/08_lesson)
+- 🔗 [Chapter 9 Completed Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/09_lesson)
+- 🔗 [Chapter 10 Starter Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/10_lesson_starter)
+- 🔗 [Chapter 10 Completed Code](https://github.com/ShuaibShaban/DevSchoolKenya/html_course/10_lesson)
 
